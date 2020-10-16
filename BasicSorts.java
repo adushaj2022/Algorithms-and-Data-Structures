@@ -10,9 +10,9 @@ public class AllSorts {
 	
 	System.out.println("Enter the required size of the array: ");
 	
-    Scanner s = new Scanner(System.in);
+    	Scanner s = new Scanner(System.in);
     
-    int size = s.nextInt();
+  	int size = s.nextInt();
     
 	int numList[] = new int[size];
 	
